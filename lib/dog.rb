@@ -16,3 +16,5 @@ end
     @name
   end
 end
+lassie= Dog.new("Mutt")
+lassie.breed
