@@ -16,4 +16,3 @@ end
     @name
   end
 end
-
